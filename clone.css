@@ -292,6 +292,7 @@
 
     /* changes the mouse cursor to the “hand” icon when hoverings */
     cursor: pointer;
+    margin-right: 3px;
 }
 
 .Lprev div:hover {
@@ -338,6 +339,7 @@
 
     /* changes the mouse cursor to the “hand” icon when hoverings */
     cursor: pointer;
+    margin-right: 3px;
 }
 
 .Lprev2 div:hover {
@@ -378,6 +380,7 @@
 
     /* changes the mouse cursor to the “hand” icon when hoverings */
     cursor: pointer;
+    margin-right: 3px;
 }
 
 .Lprev3 div:hover {
