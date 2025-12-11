@@ -1,1 +1,1 @@
-# Netflix-clone
+https://divyanshtiwari24.github.io/Netflixclone/
